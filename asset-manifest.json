@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suryavardhan14.github.io/Training/static/css/main.8750ed4c.css",
+    "main.js": "/suryavardhan14.github.io/Training/static/js/main.f028c058.js",
+    "static/js/453.864c7ab1.chunk.js": "/suryavardhan14.github.io/Training/static/js/453.864c7ab1.chunk.js",
+    "index.html": "/suryavardhan14.github.io/Training/index.html",
+    "main.8750ed4c.css.map": "/suryavardhan14.github.io/Training/static/css/main.8750ed4c.css.map",
+    "main.f028c058.js.map": "/suryavardhan14.github.io/Training/static/js/main.f028c058.js.map",
+    "453.864c7ab1.chunk.js.map": "/suryavardhan14.github.io/Training/static/js/453.864c7ab1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8750ed4c.css",
+    "static/js/main.f028c058.js"
+  ]
+}
